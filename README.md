@@ -33,6 +33,7 @@ To connect to VirtualBox using Vagrant, follow these steps:
 
 ## The 4 Pillars of DevOps
 ![image](https://user-images.githubusercontent.com/129948378/232556465-f0991550-f2ac-4076-809f-02701bb11cb3.png)
+
 The four pillars of DevOps are:
 
 -Effective communication
