@@ -11,6 +11,7 @@ A development environment is a setup that developers use to create and test soft
 A development environment is created to provide developers with a workspace where they can create, test and debug their software applications. It ensures that the software developed is error-free, efficient, and meets the required standards.
 # Vagrant
 Vagrant is an open-source software tool that helps to manage and provision virtual machines (VMs) for software development. It allows developers to easily create and configure lightweight, portable, and reproducible development environments, which can be used to run their applications.
+
 ![image](https://user-images.githubusercontent.com/129948378/232552164-aa93bf3b-52b8-44d7-a928-e8a15625ba5f.png)
 
 ## Vagrant commandlist
