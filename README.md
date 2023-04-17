@@ -22,12 +22,13 @@ https://github.com/A10Jama/tech221_virtualisation/blob/main/Vagrant_Commands.md
 To connect to VirtualBox using Vagrant, follow these steps:
 
 - Install VirtualBox and Vagrant.
-- Create a new directory for the Vagrant project using the "mkdir <filename>" command in Git Bash.
-- Open Git Bash terminal and navigate to the created directory using "cd" and "ls".
-- Initialize a new Vagrant project using "vagrant init".
-- Edit the Vagrantfile, changing the commented lines and setting "base" to "ubuntu" if you want to use Ubuntu.
+- Create a new directory for the Vagrant project using the `mkdir <filename>` command in Git Bash.
+- Open Git Bash terminal and navigate to the created directory using `cd` and `ls`.
+- Initialize a new Vagrant project using `vagrant init`.
+- Edit the Vagrantfile, changing the commented lines and setting `base` to `ubuntu` if you want to use Ubuntu.
 - Save the Vagrantfile and turn on autosave for future reference.
-- Start the VM by running "vagrant up".
-- To SSH into the VM, run "vagrant ssh" in another terminal session.
-- Use "vagrant halt" to shut down the VM and "vagrant destroy" to delete the VM.
+- Start the VM by running `vagrant up`.
+- To SSH into the VM, run `vagrant ssh` in another terminal session.
+- Use "vagrant halt" to shut down the VM and `vagrant destroy` to delete the VM.
+
 
