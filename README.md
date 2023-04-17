@@ -14,5 +14,20 @@ Vagrant is an open-source software tool that helps to manage and provision virtu
 
 ![image](https://user-images.githubusercontent.com/129948378/232552164-aa93bf3b-52b8-44d7-a928-e8a15625ba5f.png)
 
-## Vagrant commandlist
+## Vagrant Command List
 check above files for command list
+
+## Vagrant VirtualBox Connection
+
+To connect to VirtualBox using Vagrant, follow these steps:
+
+- Install VirtualBox and Vagrant.
+- Create a new directory for the Vagrant project using the "mkdir <filename>" command in Git Bash.
+- Open Git Bash terminal and navigate to the created directory using "cd" and "ls".
+- Initialize a new Vagrant project using "vagrant init".
+- Edit the Vagrantfile, changing the commented lines and setting "base" to "ubuntu" if you want to use Ubuntu.
+- Save the Vagrantfile and turn on autosave for future reference.
+- Start the VM by running "vagrant up".
+- To SSH into the VM, run "vagrant ssh" in another terminal session.
+- Use "vagrant halt" to shut down the VM and "vagrant destroy" to delete the VM.
+
