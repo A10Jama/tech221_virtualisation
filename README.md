@@ -36,10 +36,10 @@ To connect to VirtualBox using Vagrant, follow these steps:
 
 The four pillars of DevOps are:
 
--Effective communication
--Collaboration
--Automation
--Monitoring
+- Effective communication
+- Collaboration
+- Automation
+- Monitoring
 These pillars promote cooperation, shared accountability, the use of tools and technology to speed up software delivery while reducing human error, and constant performance monitoring to find and fix problems as they arise.
 
 
