@@ -32,15 +32,20 @@ To connect to VirtualBox using Vagrant, follow these steps:
 - Use "vagrant halt" to shut down the VM and `vagrant destroy` to delete the VM.
 
 ## The 4 Pillars of DevOps
-![image](https://user-images.githubusercontent.com/129948378/232556465-f0991550-f2ac-4076-809f-02701bb11cb3.png)
-
+![image](https://user-images.githubusercontent.com/129948378/232558044-8453995f-fa34-4c8c-9198-a6c6dc61dfb3.png)
 The four pillars of DevOps are:
 
 - Effective communication
 - Collaboration
 - Automation
 - Monitoring
-These pillars promote cooperation, shared accountability, the use of tools and technology to speed up software delivery while reducing human error, and constant performance monitoring to find and fix problems as they arise.
+these pillars promote cooperation, shared accountability, the use of tools and technology to speed up software delivery while reducing human error, and constant performance monitoring to find and fix problems as they arise.
 
+## The Elements of a good dev enviroment 
 
+A good development environment should have the following elements:
 
+Simple updates and user-friendly interfaces to increase productivity and efficiency
+Consistency to avoid unexpected errors, security vulnerabilities, or performance issues
+Manageability to reduce complexity and clutter
+Access to the same tools and resources for everyone regardless of location or device
