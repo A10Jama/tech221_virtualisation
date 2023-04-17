@@ -48,3 +48,23 @@ Simple updates and user-friendly interfaces to increase productivity and efficie
 Consistency to avoid unexpected errors, security vulnerabilities, or performance issues
 Manageability to reduce complexity and clutter
 Access to the same tools and resources for everyone regardless of location or device
+
+# Vagrant Provisioning
+<img width="862" alt="Screenshot 2023-04-17 at 16 53 08" src="https://user-images.githubusercontent.com/129948378/232561769-19f87075-3c3c-45f6-a6d5-f96340c13784.png">
+
+1. IF VM is halted, `vagrant halt`, we create our shell script using `touch provision.sh`.
+2. We use `nano provision.sh` to edit the contents and we enter the code in the following format:
+
+    * `sudo apt-get update -y`
+    * `sudo apt-get upgrade -y`
+    * `sudo apt-get install -y`
+    * `sudo apt-get install nginx`
+    * `systemctl status nginx`
+    
+3. We now change permissions by using `chmod -x provision.sh` this will make it executable
+4. We now move over to VScode, our vagrant file we created in the Vagrant Virtualbox connection, we will now add another line to utilise this shell script on launch: `config.vm.provision :shell, path: "provision.sh"`.
+5. Going back to our terminal, we use the command `vagrant up`. We can now `vagrant ssh` into the VM, on top of this, grab the ip address from the vagrant file we updated, and copy and paste the ip in the search bar. 
+<img width="865" alt="Screenshot 2023-04-17 at 16 52 31" src="https://user-images.githubusercontent.com/129948378/232561928-f7412839-2f8c-4036-a3cc-824d1b1c4289.png">
+
+Your IP address should now work with nginx 
+<img width="862" alt="Screenshot 2023-04-17 at 18 22 49" src="https://user-images.githubusercontent.com/129948378/232562276-01370590-987d-49eb-88da-1ce1fcd4ea32.png">
