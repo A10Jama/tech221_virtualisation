@@ -33,14 +33,18 @@ To connect to VirtualBox using Vagrant, follow these steps:
 
 ## The 4 Pillars of DevOps
 
-- Cost
-The goal of DevOps is to optimize the delivery of software by streamlining processes, increasing efficiency, and reducing waste. This includes reducing the cost of developing and maintaining software by implementing automation, reducing manual work, and improving collaboration and communication between teams.
+### Cost
+The goal of DevOps is to optimise the delivery of software by streamlining processes, increasing efficiency, and reducing waste. This includes reducing the cost of developing and maintaining software by implementing automation, reducing manual work, and improving collaboration and communication between teams.
 
-- Adapting Microservices
-- Building Quality-driven Mindset
-- Tools and Automation
+### Flexibility 
+Flexibility is a key aspect of DevOps because it allows teams to deliver software quickly, respond to changing customer needs, and keep up with the pace of technological change. 
 
-these pillars promote cooperation, shared accountability, the use of tools and technology to speed up software delivery while reducing human error, and constant performance monitoring to find and fix problems as they arise.
+### Ease of use 
+DevOps tools that are easy to use and have a simple, intuitive interface can help reduce the learning curve for team members, making it easier for them to adopt and use the tools effectively.
+
+### Robustness
+Robustness in DevOps refers to the stability and reliability of software systems under different conditions. It is achieved through continuous testing, monitoring, feedback, and building redundancy and fault tolerance into systems.
+
 
 ## The Elements of a good dev enviroment 
 
