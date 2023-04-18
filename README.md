@@ -33,10 +33,10 @@ To connect to VirtualBox using Vagrant, follow these steps:
 
 ## The 4 Pillars of DevOps
 
-- DevOps Culture and Mindset:
-- Adapting Microservices:
-- Building Quality-driven Mindset:
-- Tools and Automation:
+- DevOps Culture and Mindset
+- Adapting Microservices
+- Building Quality-driven Mindset
+- Tools and Automation
 
 these pillars promote cooperation, shared accountability, the use of tools and technology to speed up software delivery while reducing human error, and constant performance monitoring to find and fix problems as they arise.
 
