@@ -4,7 +4,7 @@ A virtual machine (VM) is a computer system based on software that divides the r
 ![image](https://user-images.githubusercontent.com/129948378/232549051-823ea280-46e2-4774-81c2-a07400576d46.png)
 
 ## Development Environment: What is it?
-A development environment is a setup that developers use to create and test software applications. It includes all the necessary tools, libraries, and configurations needed to create and run applications.
+A development environment is a setup so that developers can create and test software applications. It includes all the necessary tools, libraries, and configurations needed to create and run applications.
 ![image](https://user-images.githubusercontent.com/129948378/232550428-98e26852-7520-4c12-8c71-484b18acf6d3.png)
 
 ## The Purpose of Creating a Development Environment
