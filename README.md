@@ -33,7 +33,9 @@ To connect to VirtualBox using Vagrant, follow these steps:
 
 ## The 4 Pillars of DevOps
 
-- DevOps Culture and Mindset
+- Cost
+The goal of DevOps is to optimize the delivery of software by streamlining processes, increasing efficiency, and reducing waste. This includes reducing the cost of developing and maintaining software by implementing automation, reducing manual work, and improving collaboration and communication between teams.
+
 - Adapting Microservices
 - Building Quality-driven Mindset
 - Tools and Automation
